@@ -17,4 +17,4 @@ Testing basic user interactions such as logging in, logging out, and verifying t
 - Click on the desired test to run it.
 
 ## Test Cases
-See the  file for detailed test cases.
+See the https://docs.google.com/spreadsheets/d/19svQ4097b7CODHQpK9ez6-F_N4ytNJlaUv3UJO-v9MY/edit?usp=sharing file for detailed test cases.
