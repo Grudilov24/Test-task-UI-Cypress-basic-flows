@@ -23,7 +23,6 @@ describe('User Login/Logout Test', () => {
       cy.get('.panel-body').should('be.visible')
 
       //LOG OUT
-      //cy.wait(2000)
       cy.get('.inner-user-container').wait(5000).click()
       cy.get(':nth-child(5) > .logout').click()
     });
