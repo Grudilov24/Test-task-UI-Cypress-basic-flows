@@ -17,4 +17,4 @@ Testing basic user interactions such as logging in, logging out, and verifying t
 - Click on the desired test to run it.
 
 ## Test Cases
-See the `test-cases.md` file for detailed test cases.
+See the  file for detailed test cases.
